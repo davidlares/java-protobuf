@@ -1,6 +1,6 @@
 # Java ProtoBuf
 
-The Protocol buffers is a data-type (actually a format) developed by Google used for sharing data across many development languages. 
+The Protocol buffers are a data-type (actually a format) developed by Google used for sharing data across many development languages. 
 This particular data-type is structured and it's defined with the `.proto` file extension, also, is fully typed, very comprehensive but schema-based.
 
 Some databases offer support for Protobuf data format, this tool is internally used by Google and a lot of RPC frameworks have a natural adoption in order to exchange data. You can check for more information [here](https://developers.google.com/protocol-buffers/).
